@@ -1,0 +1,1 @@
+https://github.com/tencent-ailab/IP-Adapter/tree/main
